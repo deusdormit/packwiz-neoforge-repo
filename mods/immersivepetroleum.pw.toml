@@ -1,0 +1,12 @@
+name = "Immersive Petroleum"
+filename = "ImmersivePetroleum-1.21.1-4.4.1-38.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MOw5TN6u/versions/ZPx7CmrO/ImmersivePetroleum-1.21.1-4.4.1-38.jar"
+hash-format = "sha512"
+hash = "c3d41ab521841dd0ad5c876cc5776614ed5e1874e537ed23d4c50881d4a89d6be1ee54872df3646f83fee46999b94e6c53067fff8292c14358d0cc8f2e5e8125"
+
+[update.modrinth]
+mod-id = "MOw5TN6u"
+version = "ZPx7CmrO"

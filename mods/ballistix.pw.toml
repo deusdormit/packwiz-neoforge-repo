@@ -1,0 +1,12 @@
+name = "Ballistix"
+filename = "ballistix-1.21.1-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XeEYk41R/versions/slB2WiIX/ballistix-1.21.1-1.0.7.jar"
+hash-format = "sha512"
+hash = "c40f500d52bda30d1a29c0d7aa3daebe4ce9fa5b5952dd813c5fa18585bc88c6d0002bb4def54d709f635469234f1de0091f3bb98027bd23ec1e62cc8c1bc1b0"
+
+[update.modrinth]
+mod-id = "XeEYk41R"
+version = "slB2WiIX"
