@@ -4,7 +4,7 @@ All 216 selected outer artifacts have exact Packwiz metadata:
 
 - 189 Modrinth files, matched by SHA-512
 - 27 CurseForge files, matched by CurseForge fingerprint and stored as `metadata:curseforge`
-- 192 `both`, 22 `client`, and 2 `server`
+- 193 `both`, 22 `client`, and 1 `server`
 
 Every metadata download hash matches the selected source JAR. Shared mods use the
 updated client artifact. Required dependencies close successfully when bundled
@@ -50,7 +50,8 @@ to 1.20.2.
 - `do_a_barrel_roll-neoforge-3.7.3+1.21 2.52.10 pm.jar.disabled`
 - `fast-ip-ping-v1.0.8-mc1.21.1-neoforge.jar.disabled`
 
-The active ComputerCraft version is represented. Colony Logistics remains
-server-only. Do a Barrel Roll was explicitly restored to both sides. Distant
-Horizons was restored for its dedicated-server mode. Fast IP Ping was removed
-because dedicated-server use is unsupported.
+The active ComputerCraft version is represented. Colony Logistics is installed on
+both sides because its required network channel must exist on clients. Do a Barrel
+Roll was explicitly restored to both sides. Distant Horizons was restored for its
+dedicated-server mode. Fast IP Ping was removed because dedicated-server use is
+unsupported.
