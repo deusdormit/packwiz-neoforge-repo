@@ -1,0 +1,13 @@
+name = "Create - Creafable Redstone"
+filename = "redstone_crafting-1.0.0-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "166af890570c740b996026d595a683b5b2a22a84"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6980997
+project-id = 1344233
