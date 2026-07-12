@@ -1,6 +1,6 @@
 name = "Create: Colony Logistics"
 filename = "create_colony_logistics-1.2.2.jar"
-side = "server"
+side = "both"
 pin = true
 
 [download]
