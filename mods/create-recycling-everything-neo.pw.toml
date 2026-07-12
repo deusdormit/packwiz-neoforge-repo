@@ -1,6 +1,7 @@
 name = "Create: Recycling Everything [NeoForge Port]"
 filename = "create_recycle_everything-1.0.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "copy-unresolved.sh"
-hash = "384559b23daa0f776df2d740a64d4a7b072f1c93433d6e23ca6e292ca8ff1d6c"
-
-[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "37bee8733a462bc7a7a6281f0ebbce166e3ac7b3085ed4d9a711d0b8cccdabbe"
 metafile = true
@@ -176,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/cclogistics.pw.toml"
-hash = "6d6387341a95a193660764478e4761a30ad01325b0d087f01350169b31b6da18"
+hash = "ee3e0f4a95a18dc2ac394a9ae2e73df702ebb7326f43ac43b4abdd5478653a8d"
 metafile = true
 
 [[files]]
@@ -291,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-recycling-everything-neo.pw.toml"
-hash = "901c63260906c006de05b04c678c3ecc5332e787e77d42800129ad50e02d5735"
+hash = "8dbc24491bb80cbef7b518fd3df4ca119e67d59af3a8ff72b2bd522fb71f023c"
 metafile = true
 
 [[files]]
@@ -356,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
-hash = "0c37b2a88092a48fc9013b099b37ff6b54821234b1f202fdd63d4305ddaa13f9"
+hash = "fa29222bd53d6a65447f2dcd0b4c5f7187ee90b897375e1f9d4a03e648e9c871"
 metafile = true
 
 [[files]]
@@ -467,11 +463,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "cb975aeb5f23c4cd4b40851ef16f9793a8460b57cecaec817288a03e1e88e457"
-metafile = true
-
-[[files]]
-file = "mods/fast-ip-ping.pw.toml"
-hash = "3039b57e6e9094b86f84696b96469b044f22a1cd1e4c5d88875a7911cd2c7e54"
 metafile = true
 
 [[files]]
@@ -761,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/neocontinuity.pw.toml"
-hash = "43cc8cd706b5f8abcf9f013ea4934100826109a57a920acfdab0d01c8cfef8f1"
+hash = "8f35cebc29e664e9a3d840f6ce716e266470813c72b8ad2f2b64521e49739e2e"
 metafile = true
 
 [[files]]

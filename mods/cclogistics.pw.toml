@@ -1,6 +1,7 @@
 name = "Create: Colony Logistics"
 filename = "create_colony_logistics-1.2.2.jar"
-side = "both"
+side = "server"
+pin = true
 
 [download]
 hash-format = "sha1"
