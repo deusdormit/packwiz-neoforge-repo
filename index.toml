@@ -371,11 +371,6 @@ hash = "009d2d7fc307311f6687f2c04ebaf7ed19fa7345f3edd384c34d6611ea562851"
 metafile = true
 
 [[files]]
-file = "mods/quark.pw.toml"
-hash = "101bc6e0722d5224fbf122cf00f62de0649459d25bc95f926f52cdd8d07b5bc7"
-metafile = true
-
-[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "777a0487c2b458701bc6689ce665df23990d2d9cf16213346d53c9cade35c2cf"
 metafile = true
