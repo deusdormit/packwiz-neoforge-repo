@@ -86,11 +86,6 @@ hash = "40635b02b62208f82e1e7fb090640b4e8f58a1f382b5bf88db4b5971a7c96f9d"
 metafile = true
 
 [[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "1a2cd641d62434c0488552226ec0be804b994ec42df125ee05d7bfc1cd80522c"
-metafile = true
-
-[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "866cf9cd556fb97d59ad8d2a5c34244799acd08864911c34d5a0967178baf8b5"
 metafile = true
@@ -173,11 +168,6 @@ metafile = true
 [[files]]
 file = "mods/easy-shulker-boxes.pw.toml"
 hash = "fcb2445499442ca6c664808204e3cc65a87bde8bf619f22b247a5e9be2359cc8"
-metafile = true
-
-[[files]]
-file = "mods/ecologics.pw.toml"
-hash = "819429996bc55206fe179ba2535fb3d74303d4786ede79e389c689f7b2d7a197"
 metafile = true
 
 [[files]]
