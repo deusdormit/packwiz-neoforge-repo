@@ -136,11 +136,6 @@ hash = "25830df0e118a65ccb8a75c7a916cfc05c597d2ab57d8ef27a43e73ad005207f"
 metafile = true
 
 [[files]]
-file = "mods/creativecore.pw.toml"
-hash = "b0908250061ca586122a60ddd4883e23e63dc0186eaeef631aa5f8bfeba14b75"
-metafile = true
-
-[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "322ab3c9219896bf735ee4cbfdb30860a047014b345e4b2d997ad8ce13e586cc"
 metafile = true
@@ -336,11 +331,6 @@ hash = "07ac998b0a873c7f62debb7ee209de995937a2ce98ce221512ae0e874bceb0a8"
 metafile = true
 
 [[files]]
-file = "mods/modern-industrialization.pw.toml"
-hash = "de7f7cf9eb99c4f48f97df85113469410eb9bf0212104c2eb0281e580ebe8102"
-metafile = true
-
-[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "2777a937634a6242811c2f48bccc9772defcc216dd69f190683b7159ff7829d4"
 metafile = true
@@ -383,11 +373,6 @@ metafile = true
 [[files]]
 file = "mods/pipez.pw.toml"
 hash = "9d56970218dd1a05f2a76db8d08bba646569b20217dbcf165e723616d76b130f"
-metafile = true
-
-[[files]]
-file = "mods/placebo.pw.toml"
-hash = "886d1f818c75093ed1faeea17d2797566ceaa2e76929f11cd7d705784ea80c62"
 metafile = true
 
 [[files]]
@@ -498,16 +483,6 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "0e79a67a388e8fb9880f0f0c9421968e0836aab1fef9d6f63fb0a4c37e67677f"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "4175e78e707dcf67ace100850e7b300c3105d131a4adb681c19e6458d7967038"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "723b4097f33a494e71326cf2fa0a07b876c4374a388973f0f164eb98362238ff"
 metafile = true
 
 [[files]]
