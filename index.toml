@@ -111,6 +111,11 @@ hash = "89199c111f8c500fd0aa215ee13582420befe1979b3330df60513b54064e0f92"
 metafile = true
 
 [[files]]
+file = "mods/connectivity.pw.toml"
+hash = "81105a1a363873f3675a861d228abcf0f2a8356f1a17850c06f6d6c47e454634"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "8ff227007d3ea2f499193f04410000892bcc35b87572ae74d3f19494c6572368"
 metafile = true
@@ -133,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/critters-and-companions.pw.toml"
 hash = "71d52a816b67f33493de02d5799c6ac7f83de735d3d8f05ab17b612a63e8fdc0"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "0eaf99546b07ea456f4b8f198b646a06f5b9446fb735494f034871f70d36c569"
 metafile = true
 
 [[files]]
