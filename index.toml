@@ -1079,3 +1079,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "a544cdd001d5197d4414e6c38735b540a69e00da4376576521dffa25b435d32a"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
