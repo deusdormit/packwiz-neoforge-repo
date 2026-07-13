@@ -456,11 +456,6 @@ hash = "7056fb7f39b5a08f54e0290adb11367c016e0d707d21f7453435bc54e0f50383"
 metafile = true
 
 [[files]]
-file = "mods/extreme-reactors.pw.toml"
-hash = "a3d47e3c301ed2359820c2083dcddec8240a5d692a016c42a74eecc1193772e1"
-metafile = true
-
-[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "cb975aeb5f23c4cd4b40851ef16f9793a8460b57cecaec817288a03e1e88e457"
 metafile = true
