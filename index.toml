@@ -16,11 +16,6 @@ hash = "8f752949f6fbb8b919dc65467fc9043c8d1cff8e51bceea5aae74b3d2a2ed459"
 metafile = true
 
 [[files]]
-file = "mods/ambientsounds.pw.toml"
-hash = "d1a85edc2906422ad5b418160ca21f97d35cd9f0aac3a27e238f8245f23d83a1"
-metafile = true
-
-[[files]]
 file = "mods/amendments.pw.toml"
 hash = "b1a4125282c3060897b3bd754a2a1b176d89cc5b33d13f0c5fe4831932c39251"
 metafile = true
@@ -213,11 +208,6 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "7056fb7f39b5a08f54e0290adb11367c016e0d707d21f7453435bc54e0f50383"
-metafile = true
-
-[[files]]
-file = "mods/fastsuite.pw.toml"
-hash = "83e60a73e109258def123fbcab5cf606857f36feca621a4c40c9d7c10b285bca"
 metafile = true
 
 [[files]]
